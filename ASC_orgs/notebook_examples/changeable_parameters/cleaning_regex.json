@@ -1,0 +1,31 @@
+
+{
+"clean_words":  {"lgbt":             "\\b((\\w+)?(lgbt|glbt?)\\w+([+]*))\\b",  
+                 "theater":          "\\b(teat)(er|ro?)(\\w+)?\\b",
+                 "reintegrate":      "\\b(re-integrat)\\w+\\b",
+                 "knowledge ":       "\\b(knowledge-)(\\w+)\\b",
+                 "non-profit":       "\\b(not-for-|non?)(profit\\b)",
+                 "quirk":            "(\\bquirk)(\\w+)?\\b",
+                 "indigenous":       "\\b(indig)(e|i?)(nus)\\b",
+                 "queer ":           "queer-",
+                 "woman ":           "\\b(wom)[ea]n-",
+                 "gender queer":     "genderqueer",
+                 "audiences":        "audeinces",
+                 "to disadvantaged": "todisadvantaged",
+                 "recreate":         "re-create",
+                 "discipline wide":  "discipline-wide",
+                 "strongly felt":    "strongly-felt",
+                 "colombia":         "columbia",
+                 "multi-faceted":    "multifaceted",
+                 "multi-disci":      "multidisci",
+                 "health":           "helat\\w{1,5}\\b",
+                 "addictions":       "addicit\\w{0,6}\\b",
+                 "multi-heritage":   "muti-heritge\\w+"},
+
+"accents":       {"e": "Ã©", 
+                  "":  "[âÂ]", 
+                  "c": "Ã§", 
+                  "and": "&"}             
+
+
+}                   
