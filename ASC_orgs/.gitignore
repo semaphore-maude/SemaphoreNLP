@@ -18,6 +18,9 @@ __pycache__/
 *.cb2
 .*.lb
 
+# Jupyter notebook related
+.ipynb_checkpoints
+
 # C extensions
 *.so
 
